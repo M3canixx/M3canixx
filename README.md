@@ -19,7 +19,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## Git Stats
 
-[![M3canixx's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3canixx&show_icons=true&count_private=true&theme=tokyonight))](https://github.com/M3canixx)
+[![M3canixx's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3canixx&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/M3canixx)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight">-->
 
 ## Programming Languages 💻
