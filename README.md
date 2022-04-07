@@ -14,7 +14,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## About Me 
 
 - Hi, I am M3canixx, a french 🇫🇷 student in last year of engineering school in artificial intelligence.  
-- I have some serious.
+- Actually working for Wel2be for animal welfare.
+- I love programming stuff, anime, football, playing videogames, Yu-Gi-Oh TCG.
 
 ## Git Stats
 
@@ -64,7 +65,7 @@ You can found some of those project on my Github
 
 ## Current projects 🔭
 
-- Animal Tracking for animal welfare
+- Animal tracking for animal welfare
 - Discord Bot
 
 ## How to reach me 📫
