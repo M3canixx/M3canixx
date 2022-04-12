@@ -14,7 +14,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## About Me 
 
 - Hi, I am M3canixx, a french 🇫🇷 student in last year of engineering school in artificial intelligence.  
-- Actually working for Wel2be for animal welfare.
+- Currently working for Wel2be for animal welfare.
 - I love programming stuff, anime, football, playing videogames, Yu-Gi-Oh TCG.
 - Speaking FR / ENG
 
