@@ -59,17 +59,17 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 You can found some of those project on my Github
       
 - Fall detector wristband (Arduino / Website)
-- Facial Emotion Recognition (Deep Learning)
-- Face Recognition (Deep Learning)
-- Founding spelling mistakes on social media (Web Scraping)
+- Facial Emotion Recognition (Deep Learning / Python)
+- Face Recognition (Deep Learning / Python)
+- Founding spelling mistakes on social media (Web Scraping / Python)
 - Quick file rename (JS / Ramdba)
 - Images sorting (JS / Ramdba)
 - VR Interaction (C# / Unity)
 
 ## Current projects 🔭
 
-- Animal tracking for animal welfare (3 months, April 1st - July 4th)
-- Discord Bot
+- Animal tracking for animal welfare (3 months, April 1st - July 4th) (Deep Learning / Python)
+- Discord Bot (JS)
 
 ## How to reach me 📫
 
