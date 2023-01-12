@@ -27,7 +27,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3canixx&langs_count=10&hide=C,Objective-C,html&layout=compact&theme=tokyonight)]
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3canixx)](https://github.com/anuraghazra/github-readme-stats))]
 
 ### Programming skills
 
