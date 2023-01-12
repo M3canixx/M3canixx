@@ -14,8 +14,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## About Me 
 
 - Hi, I am M3canixx, a french 🇫🇷 student in last year of engineering school in artificial intelligence.  
-- Currently working for Wel2be for animal welfare.
-- I love programming stuff, anime, football, playing videogames, Yu-Gi-Oh TCG.
+- Currently working for Alten for behavioral Analysis.
+- I love programming stuff, anime, football, playing videogames (FF XIV, Rocket League, ...), Yu-Gi-Oh TCG.
 - Speaking FR / ENG
 
 ## Git Stats
@@ -65,10 +65,11 @@ You can found some of those project on my Github
 - Quick file rename (JS / Ramdba)
 - Images sorting (JS / Ramdba)
 - VR Interaction (C# / Unity)
+- Animal tracking for animal welfare (Deep Learning / Python)
 
 ## Current projects 🔭
 
-- Animal tracking for animal welfare (3 months, April 1st - July 4th) (Deep Learning / Python)
+- Behavioral Analysis in an artificial environment (6 months) (Deep Learning / Python)
 - Discord Bot (JS)
 
 ## How to reach me 📫
