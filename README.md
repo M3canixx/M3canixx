@@ -69,7 +69,7 @@ You can found some of those project on my Github
 
 ## Current projects 🔭
 
-- Behavioral Analysis in an artificial environment (6 months) (Deep Learning / Python)
+- Behavior Analysis in an artificial environment (6 months) (Deep Learning / Python)
 - Discord Bot (JS)
 
 ## How to reach me 📫
