@@ -13,7 +13,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## About Me 
 
-- Hi, I am M3canixx, a french 🇫🇷 student in last year of engineering school in artificial intelligence.  
+- Hi, I am M3canixx, a french 🇫🇷 AI engineer.  
 - Currently working for Alten on a thesis for behavioral analysis.
 - I love programming stuff, anime, football, playing videogames (FF XIV, Rocket League, ...), Yu-Gi-Oh TCG.
 - Speaking FR / ENG
