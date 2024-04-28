@@ -14,7 +14,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## About Me 
 
 - Hi, I am M3canixx, a french 🇫🇷 AI engineer.  
-- Currently jobless, I stream sometimes.
+- Activly researching a job.
+- Part streamer.
 - I love programming stuff, anime, football, playing videogames (FF XIV, Rocket League, ...), Yu-Gi-Oh TCG.
 - Speaking FR / ENG
 
@@ -66,11 +67,12 @@ You can found some of those project on my Github
 - Images sorting (JS / Ramdba)
 - VR Interaction (C# / Unity)
 - Animal tracking for animal welfare (Deep Learning / Python)
+- Behavior Analysis in an artificial environment (Deep Learning / Python)
 
 ## Current projects 🔭
-
-- Behavior Analysis in an artificial environment (6 months) (Deep Learning / Python)
 - Discord Bot (JS)
+- 3D on SolidWorks
+- 3D on Blender
 
 ## How to reach me 📫
 
