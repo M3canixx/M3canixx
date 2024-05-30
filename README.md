@@ -13,10 +13,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## About Me 
 
-- Hi, I am M3canixx, a french 🇫🇷 AI engineer.  
+- Hi, I am M3canixx, a french 🇫🇷 AI engineer graduate from ESME.  
 - Activly researching a job.
-- Part streamer.
-- I love programming stuff, anime, football, playing videogames (FF XIV, Rocket League, ...), Yu-Gi-Oh TCG.
+- I love programming stuff, anime, football, playing videogames, Yu-Gi-Oh TCG.
 - Speaking FR / ENG
 
 ## Git Stats
