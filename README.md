@@ -11,7 +11,7 @@
 
 ### 🇫🇷 AI Engineer · Computer Vision · Deep Learning
 
-[![Gmail](https://img.shields.io/badge/M3canixxs@gmail.com-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
+[![Outlook](https://img.shields.io/badge/jahedul@hotmail.fr-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-M3canixx-181717?style=flat-square&logo=github)](https://github.com/M3canixx)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=flat-square)
 
@@ -88,6 +88,6 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/M3canixxs@gmail.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
+[![Outlook](https://img.shields.io/badge/jahedul@hotmail.fr-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
 
 </div>
