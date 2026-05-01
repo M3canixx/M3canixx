@@ -11,7 +11,7 @@
 
 ### 🇫🇷 AI Engineer · Computer Vision · Deep Learning
 
-[![Outlook](https://img.shields.io/badge/jahedul@hotmail.fr-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-M3canixx-181717?style=flat-square&logo=github)](https://github.com/M3canixx)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=flat-square)
 
@@ -75,12 +75,14 @@
 |--------|-------------|-------------|
 | 🎯 **Reconnaissance faciale temps réel** | Python · TensorFlow · OpenCV | Détection et identification de visages en temps réel avec IHM |
 | 😶 **Facial Emotion Recognition** | Python · Deep Learning | Classification des émotions faciales via réseau de neurones |
-| 🐾 **Animal Tracking** | Python · Deep Learning | Suivi d'animaux pour le bien-être animal |
+| 🐾 **Animal Welfare** | Python · Deep Learning | Suivi d'animaux pour la bien-traitance animal |
 | 🤖 **Behaviour Analysis** | Python · Deep Learning | Analyse comportementale en environnement artificiel |
 | ⌚ **Fall Detector Wristband** | Arduino · Web | Bracelet connecté de détection de chutes |
 | 🕹️ **VR Interaction** | C# · Unity | Système d'interaction en réalité virtuelle |
 | 🔍 **Social Media Spell Checker** | Python · Web Scraping | Détection de fautes d'orthographe sur les réseaux sociaux |
 | 📁 **Quick File Tools** | JS · Ramda | Renommage et tri d'images en masse |
+| 🕹️ **YGODoku** | JS · HTML · CSS | Jeu du Sudoku revisité |
+| 🔍 **Portfolio** | React · HTML · CSS  | Portfolio en ligne |
 
 ---
 
@@ -88,6 +90,6 @@
 
 <div align="center">
 
-[![Outlook](https://img.shields.io/badge/jahedul@hotmail.fr-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jahedul@hotmail.fr)
 
 </div>
