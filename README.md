@@ -23,9 +23,9 @@
 
 > Ingénieur IA diplômé de l'ESME, passionné par la Computer Vision et le Deep Learning. Je cherche activement un poste où je peux construire des systèmes intelligents qui ont un impact réel.
 
-- 🧠 Spécialisé en **Computer Vision**, **Deep Learning** & agents **IA multimodaux**
+- 🧠 Spécialisé en **Computer Vision** & **Deep Learning** 
 - 🔍 Actuellement en recherche d'emploi
-- 🎮 Anime · Football · Jeux vidéo · Yu-Gi-Oh TCG
+- 🎮 Voyage · Football · Esport
 - 🌍 FR / ENG
 
 ---
