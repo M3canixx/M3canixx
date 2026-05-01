@@ -1,80 +1,93 @@
-# Hello there 👋
+<div align="center">
 
-<!-- Docs for Readme APi display -->
-<!-- 
-https://github.com/anuraghazra/github-readme-stats
-https://dev.to/envoy_/150-badges-for-github-pnk
--->
+```
+███╗   ███╗██████╗  ██████╗ █████╗ ███╗   ██╗██╗██╗  ██╗██╗  ██╗
+████╗ ████║╚════██╗██╔════╝██╔══██╗████╗  ██║██║╚██╗██╔╝╚██╗██╔╝
+██╔████╔██║ █████╔╝██║     ███████║██╔██╗ ██║██║ ╚███╔╝  ╚███╔╝ 
+██║╚██╔╝██║ ╚═══██╗██║     ██╔══██║██║╚██╗██║██║ ██╔██╗  ██╔██╗ 
+██║ ╚═╝ ██║██████╔╝╚██████╗██║  ██║██║ ╚████║██║██╔╝ ██╗██╔╝ ██╗
+╚═╝     ╚═╝╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
+### 🇫🇷 AI Engineer · Computer Vision · Deep Learning
 
-<p align="center">
-    <a href="mailto:M3canixxs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="M3canixxs@gmail.com""></a>   
-</p>
+[![Gmail](https://img.shields.io/badge/M3canixxs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:M3canixxs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-M3canixx-181717?style=flat-square&logo=github)](https://github.com/M3canixx)
+![Status](https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=flat-square)
 
-## About Me 
+</div>
 
-- Hi, I am M3canixx, a french 🇫🇷 AI engineer graduate from ESME.  
-- Activly researching a job.
-- I love programming stuff, anime, football, playing videogames, Yu-Gi-Oh TCG.
-- Speaking FR / ENG
+---
 
-## Git Stats
+## 👾 About Me
 
-[![M3canixx's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3canixx&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/M3canixx)
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Im-Rises&show_icons=true&count_private=true&theme=tokyonight">-->
+> Ingénieur IA diplômé de l'ESME, passionné par la Computer Vision et le Deep Learning. Je cherche activement un poste où je peux construire des systèmes intelligents qui ont un impact réel.
 
-## Programming Languages 💻
+- 🧠 Spécialisé en **Computer Vision**, **Deep Learning** & agents **IA multimodaux**
+- 🔍 Actuellement en recherche d'emploi
+- 🎮 Anime · Football · Jeux vidéo · Yu-Gi-Oh TCG
+- 🌍 FR / ENG
 
-### Programming stats
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3canixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-### Programming skills
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3canixx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/M3canixx)
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3canixx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/M3canixx)
 
-## Currently learning 🌱
+</div>
 
-- AI
-- Machine Learning
-- Deep Learning
-- Python
-- Javascript
+---
 
-## Projects Done 🔭
+## 🛠️ Tech Stack
 
-You can found some of those project on my Github
-      
-- Fall detector wristband (Arduino / Website)
-- Facial Emotion Recognition (Deep Learning / Python)
-- Face Recognition (Deep Learning / Python)
-- Founding spelling mistakes on social media (Web Scraping / Python)
-- Quick file rename (JS / Ramdba)
-- Images sorting (JS / Ramdba)
-- VR Interaction (C# / Unity)
-- Animal tracking for animal welfare (Deep Learning / Python)
-- Behavior Analysis in an artificial environment (Deep Learning / Python)
+**IA / Machine Learning**
 
-## Current projects 🔭
-- Discord Bot (JS)
-- 3D on SolidWorks
-- 3D on Blender
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## How to reach me 📫
+**Développement**
 
-<p align="center">
-    <a href="mailto:M3canixxs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="M3canixxs@gmail.com""></a>   
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Outils & Autres**
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projets
+
+| Projet | Technologies | Description |
+|--------|-------------|-------------|
+| 🎯 **Reconnaissance faciale temps réel** | Python · TensorFlow · OpenCV | Détection et identification de visages en temps réel avec IHM |
+| 😶 **Facial Emotion Recognition** | Python · Deep Learning | Classification des émotions faciales via réseau de neurones |
+| 🐾 **Animal Tracking** | Python · Deep Learning | Suivi d'animaux pour le bien-être animal |
+| 🤖 **Behaviour Analysis** | Python · Deep Learning | Analyse comportementale en environnement artificiel |
+| ⌚ **Fall Detector Wristband** | Arduino · Web | Bracelet connecté de détection de chutes |
+| 🕹️ **VR Interaction** | C# · Unity | Système d'interaction en réalité virtuelle |
+| 🔍 **Social Media Spell Checker** | Python · Web Scraping | Détection de fautes d'orthographe sur les réseaux sociaux |
+| 📁 **Quick File Tools** | JS · Ramda | Renommage et tri d'images en masse |
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/M3canixxs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M3canixxs@gmail.com)
+
+</div>
